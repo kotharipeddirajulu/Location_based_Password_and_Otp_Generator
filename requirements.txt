@@ -1,0 +1,3 @@
+geocoder==1.38.1
+pyperclip==1.8.0
+Pillow==8.0.1
